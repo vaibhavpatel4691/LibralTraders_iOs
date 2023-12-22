@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ActionButtonFooterView" customModule="B2B_Mobile_App_For_Magento_2" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="482" height="64"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gBV-ot-iaR">
+                    <rect key="frame" x="0.0" y="0.0" width="482" height="64"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OII-B5-lRM">
+                            <rect key="frame" x="16" y="8" width="450" height="48"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="48" id="fuX-ra-nkV"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                            <color key="tintColor" name="AccentColor"/>
+                            <state key="normal" title="Button"/>
+                            <connections>
+                                <action selector="btnClicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="oWp-7k-vvm"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    <constraints>
+                        <constraint firstItem="OII-B5-lRM" firstAttribute="leading" secondItem="gBV-ot-iaR" secondAttribute="leading" constant="16" id="VJr-sq-Xmb"/>
+                        <constraint firstItem="OII-B5-lRM" firstAttribute="top" secondItem="gBV-ot-iaR" secondAttribute="top" constant="8" id="qNH-Kz-ykv"/>
+                        <constraint firstAttribute="trailing" secondItem="OII-B5-lRM" secondAttribute="trailing" constant="16" id="qXY-CE-eTa"/>
+                        <constraint firstAttribute="bottom" secondItem="OII-B5-lRM" secondAttribute="bottom" constant="8" id="vu5-ih-1Oo"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="gBV-ot-iaR" secondAttribute="trailing" id="8o9-zM-TvP"/>
+                <constraint firstItem="gBV-ot-iaR" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Zfi-jW-lhA"/>
+                <constraint firstAttribute="bottom" secondItem="gBV-ot-iaR" secondAttribute="bottom" id="dvg-8D-pAe"/>
+                <constraint firstItem="gBV-ot-iaR" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="g40-0P-5Pu"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="btn" destination="OII-B5-lRM" id="LDK-rW-Mou"/>
+            </connections>
+            <point key="canvasLocation" x="219.19999999999999" y="-107.0464767616192"/>
+        </view>
+    </objects>
+    <resources>
+        <namedColor name="AccentColor">
+            <color red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

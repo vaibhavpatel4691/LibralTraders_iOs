@@ -1,0 +1,754 @@
+
+{
+  "darkAppThemeColor" : "#FFFFFF",
+  "buttonTextColor" : "#FFFFFF",
+  "themeType" : 0,
+  "success" : true,
+  "darkAppThemeTextColor" : "#2686AE",
+  "themeCode" : null,
+  "androidDownloadLink" : null,
+  "customerName" : "Mr. Test Test",
+  "launcherIconType" : "1",
+  "walkthroughVersion" : "1.0",
+  "storeData" : [
+    {
+      "id" : "1",
+      "name" : "Main Website Store",
+      "stores" : [
+        {
+          "id" : "1",
+          "name" : "Default Store View",
+          "code" : "en"
+        }
+      ]
+    }
+  ],
+  "bannerImages" : [
+    {
+      "name" : "Orthodontics",
+      "id" : "4",
+      "url" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/390x260\/mobikul\/bannerimages\/File-1676635962.jpg",
+      "bannerType" : "category",
+      "dominantColor" : "#a4b1dd"
+    }
+  ],
+  "message" : "",
+  "categories" : [
+    {
+      "banner" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/390x260\/categoryimages\/banner\/File-1674637084.jpg",
+      "thumbnail" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/144x144\/categoryimages\/icon\/File-1674636969.png",
+      "bannerDominantColor" : "#bec7e6",
+      "id" : "1233",
+      "hasChildren" : true,
+      "thumbnailDominantColor" : "#7d9898",
+      "name" : "Protection"
+    },
+    {
+      "banner" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/390x260\/categoryimages\/banner\/File-1674637209.jpg",
+      "thumbnail" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/144x144\/categoryimages\/icon\/File-1674637163.png",
+      "bannerDominantColor" : "#cfc2d1",
+      "id" : "4",
+      "hasChildren" : true,
+      "thumbnailDominantColor" : "#77695d",
+      "name" : "Orthodontics"
+    },
+    {
+      "banner" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/390x260\/categoryimages\/banner\/File-1674637277.jpg",
+      "thumbnail" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/144x144\/categoryimages\/icon\/File-1674637252.png",
+      "bannerDominantColor" : "#c0adc3",
+      "id" : "7",
+      "hasChildren" : true,
+      "thumbnailDominantColor" : "#98715e",
+      "name" : "Dental"
+    },
+    {
+      "banner" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/390x260\/categoryimages\/banner\/File-1674637330.jpg",
+      "thumbnail" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/144x144\/categoryimages\/icon\/File-1674637302.png",
+      "bannerDominantColor" : "#c7d0ef",
+      "id" : "937",
+      "hasChildren" : true,
+      "thumbnailDominantColor" : "#8e9790",
+      "name" : "Equipments"
+    },
+    {
+      "banner" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/390x260\/categoryimages\/banner\/File-1674637383.jpg",
+      "thumbnail" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/144x144\/categoryimages\/icon\/File-1674637353.png",
+      "bannerDominantColor" : "#c7b4ca",
+      "id" : "350",
+      "hasChildren" : true,
+      "thumbnailDominantColor" : "#a07f6e",
+      "name" : "Oral Hygiene"
+    },
+    {
+      "banner" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/390x260\/categoryimages\/banner\/File-1674637461.jpg",
+      "thumbnail" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/144x144\/categoryimages\/icon\/File-1674637423.png",
+      "bannerDominantColor" : "#c2d1ee",
+      "id" : "933",
+      "hasChildren" : true,
+      "thumbnailDominantColor" : "#99aba1",
+      "name" : "Surgical"
+    },
+    {
+      "banner" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/390x260\/categoryimages\/banner\/File-1674637512.jpg",
+      "thumbnail" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/144x144\/categoryimages\/icon\/File-1674637482.png",
+      "bannerDominantColor" : "#b0cff0",
+      "id" : "232",
+      "hasChildren" : true,
+      "thumbnailDominantColor" : "#98ae9e",
+      "name" : "Brands"
+    },
+    {
+      "banner" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/390x260\/categoryimages\/banner\/File-1674637582.png",
+      "thumbnail" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/144x144\/categoryimages\/icon\/File-1674637542.png",
+      "bannerDominantColor" : "#6b1b1e",
+      "id" : "34",
+      "hasChildren" : false,
+      "thumbnailDominantColor" : "#a53f3e",
+      "name" : "Best Sellers"
+    },
+    {
+      "banner" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/390x260\/categoryimages\/banner\/File-1674637628.jpg",
+      "thumbnail" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/144x144\/categoryimages\/icon\/File-1674637601.png",
+      "bannerDominantColor" : "#ced7f5",
+      "id" : "35",
+      "hasChildren" : false,
+      "thumbnailDominantColor" : "#909b95",
+      "name" : "Clearance Sale"
+    },
+    {
+      "banner" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/390x260\/categoryimages\/banner\/File-1674637688.jpg",
+      "thumbnail" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/144x144\/categoryimages\/icon\/File-1674637658.png",
+      "bannerDominantColor" : "#a09bb3",
+      "id" : "1215",
+      "hasChildren" : false,
+      "thumbnailDominantColor" : "#618549",
+      "name" : "Made in India"
+    },
+    {
+      "banner" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/390x260\/categoryimages\/banner\/File-1674637741.png",
+      "thumbnail" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/144x144\/categoryimages\/icon\/File-1674637711.png",
+      "bannerDominantColor" : "#421010",
+      "id" : "1047",
+      "hasChildren" : false,
+      "thumbnailDominantColor" : "#905750",
+      "name" : "offers"
+    }
+  ],
+  "iosDownloadLink" : null,
+  "appLogoDominantColor" : "#d1e1c8",
+  "allowIosDownload" : false,
+  "allowedCurrencies" : [
+    {
+      "label" : "A$ Australian Dollar",
+      "code" : "AUD"
+    },
+    {
+      "label" : "£ British Pound Sterling",
+      "code" : "GBP"
+    },
+    {
+      "label" : "€ Euro",
+      "code" : "EUR"
+    },
+    {
+      "label" : "₹ Indian Rupee",
+      "code" : "INR"
+    },
+    {
+      "label" : "¥ Japanese Yen",
+      "code" : "JPY"
+    },
+    {
+      "label" : "$ US Dollar",
+      "code" : "USD"
+    }
+  ],
+  "appLogo" : "https:\/\/www.libraltraders.com\/media\/mobikul\/logo\/default\/libral-logo2.jpg",
+  "darkAppLogoDominantColor" : "#e3f0e3",
+  "splashImage" : "",
+  "darkAppLogo" : "https:\/\/www.libraltraders.com\/media\/mobikul\/logo\/default\/1024-libral_1.png",
+  "tabCategoryView" : "0",
+  "sort_order" : [
+    {
+      "id" : "featuredcategories",
+      "layout_id" : "featuredcategories",
+      "type" : "category",
+      "position" : 1
+    },
+    {
+      "id" : "bannerimage",
+      "layout_id" : "bannerimage",
+      "type" : "banner",
+      "position" : 2
+    },
+    {
+      "id" : "featuredProduct",
+      "layout_id" : "featuredProduct",
+      "type" : "product",
+      "position" : 3
+    },
+    {
+      "id" : "newProduct",
+      "layout_id" : "newProduct",
+      "type" : "product",
+      "position" : 4
+    },
+    {
+      "id" : "hotDeals",
+      "layout_id" : "hotDeals",
+      "type" : "product",
+      "position" : 5
+    }
+  ],
+  "defaultCurrency" : "INR",
+  "darkSplashImage" : "",
+  "appThemeColor" : "#FFFFFF",
+  "priceFormat" : {
+    "decimalSymbol" : ".",
+    "requiredPrecision" : 2,
+    "pattern" : "₹%s",
+    "precision" : 2,
+    "groupSymbol" : ",",
+    "integerRequired" : false,
+    "groupLength" : 3
+  },
+  "appButtonColor" : "#05800D",
+  "wishlistEnable" : true,
+  "showSwatchOnCollection" : true,
+  "appThemeTextColor" : "#2686AE",
+  "cartCount" : 11,
+  "cmsData" : [
+    {
+      "id" : "27",
+      "title" : "Brand Represented - Libral, Dentaurum, Captain, Euronda, Pascal, Acteon and G&H Many More Brands - Libraltraders.com"
+    }
+  ],
+  "darkButtonTextColor" : "#FFFFFF",
+  "customerEmail" : "test@webkul.com",
+  "websiteData" : [
+    {
+      "id" : "1",
+      "name" : "Main Website"
+    }
+  ],
+  "featuredCategories" : [
+    {
+      "categoryId" : "33",
+      "url" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/288x288\/mobikul\/featuredcategories\/File-1578043040.jpg",
+      "categoryName" : "New Arrivals",
+      "dominantColor" : "#2cb1d1"
+    },
+    {
+      "categoryId" : "1047",
+      "url" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/288x288\/mobikul\/featuredcategories\/File-1590834514.png",
+      "categoryName" : "offers",
+      "dominantColor" : "#f4a096"
+    },
+    {
+      "categoryId" : "34",
+      "url" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/288x288\/mobikul\/featuredcategories\/File-1590835344.png",
+      "categoryName" : "Best Sellers",
+      "dominantColor" : "#e2ecf4"
+    },
+    {
+      "categoryId" : "35",
+      "url" : "https:\/\/www.libraltraders.com\/media\/mobikulresized\/288x288\/mobikul\/featuredcategories\/File-1590834092.png",
+      "categoryName" : "Clearance Sale",
+      "dominantColor" : "#c6ced3"
+    }
+  ],
+  "carousel" : [
+    {
+      "id" : "featuredProduct",
+      "label" : "Featured Products",
+      "productList" : [
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "Out of stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : false,
+          "configurableData" : {
+
+          },
+          "isAvailable" : false,
+          "dominantColor" : "#eaeae8",
+          "minAddToCartQty" : 1,
+          "name" : "Dentaurum Activator Tube For Facebow 045 1 Pair - 607-300-00",
+          "isInWishlist" : false,
+          "isInRange" : false,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/6\/0\/607-300-00---1.jpg",
+          "reviewCount" : 0,
+          "typeId" : "simple",
+          "formattedPrice" : "₹450.00",
+          "price" : 450,
+          "finalPrice" : 450,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹450.00",
+          "entityId" : "23583"
+        },
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "groupedPrice" : "₹1,000.00",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : false,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#cecfcb",
+          "minAddToCartQty" : 1,
+          "name" : "AJW Regular Wire (Light Pink) 25 Ft. ",
+          "isInWishlist" : false,
+          "isInRange" : false,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/t\/t\/tttttttttttttttt_2.jpg",
+          "reviewCount" : 0,
+          "typeId" : "grouped",
+          "formattedPrice" : "₹0.00",
+          "price" : 0,
+          "finalPrice" : 0,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹1,000.00",
+          "entityId" : "26697"
+        },
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : false,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#edebe6",
+          "minAddToCartQty" : 1,
+          "name" : "Playbox Comb and Shine - PBP-012",
+          "isInWishlist" : false,
+          "isInRange" : true,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/c\/o\/combshine-3.jpg",
+          "reviewCount" : 0,
+          "typeId" : "simple",
+          "formattedPrice" : "₹2,133.00",
+          "price" : 2133,
+          "finalPrice" : 1600,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹1,600.00",
+          "entityId" : "32788"
+        },
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : false,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#f6f6f6",
+          "minAddToCartQty" : 1,
+          "name" : "Reliance Ortho Pad Lock LC Fluorescing Adhesive Paste",
+          "isInWishlist" : false,
+          "isInRange" : false,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/p\/a\/pad-lock-2.jpg",
+          "reviewCount" : 0,
+          "typeId" : "simple",
+          "formattedPrice" : "₹4,750.00",
+          "price" : 4750,
+          "finalPrice" : 4750,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹4,750.00",
+          "entityId" : "32654"
+        },
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : false,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#efedee",
+          "minAddToCartQty" : 1,
+          "name" : "Rabbit Force Screw Driver With Drive Shaft - RF-MSSDN",
+          "isInWishlist" : false,
+          "isInRange" : false,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/m\/i\/mini-screw---3_1.jpg",
+          "reviewCount" : 0,
+          "typeId" : "simple",
+          "formattedPrice" : "₹7,600.00",
+          "price" : 7600,
+          "finalPrice" : 7600,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹7,600.00",
+          "entityId" : "24963"
+        }
+      ],
+      "type" : "product"
+    },
+    {
+      "id" : "newProduct",
+      "label" : "New Products",
+      "productList" : [
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : true,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#bac1c7",
+          "minAddToCartQty" : 1,
+          "name" : "OrVance Ortho Dots Clear",
+          "isInWishlist" : false,
+          "isInRange" : false,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/m\/7\/m71.png",
+          "reviewCount" : 0,
+          "typeId" : "simple",
+          "formattedPrice" : "₹400.00",
+          "price" : 400,
+          "finalPrice" : 400,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹400.00",
+          "entityId" : "32898"
+        },
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "groupedPrice" : "₹1,650.00",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : true,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#edeeed",
+          "minAddToCartQty" : 1,
+          "name" : "Captain Silver Solder Wire 0.31\"",
+          "isInWishlist" : false,
+          "isInRange" : false,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/s\/i\/silver-solder-wire11_2.jpg",
+          "reviewCount" : 0,
+          "typeId" : "grouped",
+          "formattedPrice" : "₹0.00",
+          "price" : 0,
+          "finalPrice" : 0,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹1,650.00",
+          "entityId" : "32896"
+        },
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "groupedPrice" : "₹325.00",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : true,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#f5efdb",
+          "minAddToCartQty" : 1,
+          "name" : "Morelli Intraoral Latex Elastics Medium",
+          "isInWishlist" : false,
+          "isInRange" : false,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/6\/0\/6001201_grande_2.jpg",
+          "reviewCount" : 0,
+          "typeId" : "grouped",
+          "formattedPrice" : "₹0.00",
+          "price" : 0,
+          "finalPrice" : 0,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹325.00",
+          "entityId" : "32893"
+        },
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "groupedPrice" : "₹1,500.00",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : true,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#d2d3d2",
+          "minAddToCartQty" : 1,
+          "name" : "Morelli TMA Beta Straight Length Wire",
+          "isInWishlist" : false,
+          "isInRange" : false,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/5\/6\/5601006_1_4.jpg",
+          "reviewCount" : 0,
+          "typeId" : "grouped",
+          "formattedPrice" : "₹0.00",
+          "price" : 0,
+          "finalPrice" : 0,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹1,500.00",
+          "entityId" : "32887"
+        },
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : true,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#fafafa",
+          "minAddToCartQty" : 1,
+          "name" : "Osstem Majestry SL Bracket Instruments Opener",
+          "isInWishlist" : false,
+          "isInRange" : false,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/8\/0\/801-601_02.jpg",
+          "reviewCount" : 0,
+          "typeId" : "simple",
+          "formattedPrice" : "₹350.00",
+          "price" : 350,
+          "finalPrice" : 350,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹350.00",
+          "entityId" : "32886"
+        }
+      ],
+      "type" : "product"
+    },
+    {
+      "id" : "hotDeals",
+      "label" : "Hot Deals",
+      "productList" : [
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : false,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#d9e2eb",
+          "minAddToCartQty" : 1,
+          "name" : "Poster English Your Healthy Smile is our Focus Sticker Sheet (Sticker) - POS-009",
+          "isInWishlist" : false,
+          "isInRange" : true,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/p\/0\/p009.jpg",
+          "reviewCount" : 0,
+          "typeId" : "simple",
+          "formattedPrice" : "₹300.00",
+          "price" : 300,
+          "finalPrice" : 300,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹300.00",
+          "entityId" : "22"
+        },
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : false,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#f8f8f8",
+          "minAddToCartQty" : 1,
+          "name" : "Shree Bracket Holder Posterior Tweezer Tips - SHP30",
+          "isInWishlist" : false,
+          "isInRange" : true,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/s\/h\/shp030.jpg",
+          "reviewCount" : 0,
+          "typeId" : "simple",
+          "formattedPrice" : "₹950.00",
+          "price" : 950,
+          "finalPrice" : 950,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹950.00",
+          "entityId" : "1493"
+        },
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : false,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#fcfcfb",
+          "minAddToCartQty" : 1,
+          "name" : "Shree Bracket Holder Anterior Square Tips - SHP20",
+          "isInWishlist" : false,
+          "isInRange" : true,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/s\/h\/shp20_2.jpg",
+          "reviewCount" : 0,
+          "typeId" : "simple",
+          "formattedPrice" : "₹950.00",
+          "price" : 950,
+          "finalPrice" : 950,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹950.00",
+          "entityId" : "1494"
+        },
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : false,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#000003",
+          "minAddToCartQty" : 1,
+          "name" : "PDT Langer 3-4 Nautical Blue - R080 (Clearance Sale)",
+          "isInWishlist" : false,
+          "isInRange" : true,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/r\/0\/r080_l_3-4_1.gif",
+          "reviewCount" : 0,
+          "typeId" : "simple",
+          "formattedPrice" : "₹800.00",
+          "price" : 800,
+          "finalPrice" : 760,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹760.00",
+          "entityId" : "1634"
+        },
+        {
+          "tierPrice" : "",
+          "arType" : "2D",
+          "arTextureImages" : [
+
+          ],
+          "availability" : "In stock",
+          "hasRequiredOptions" : false,
+          "wishlistItemId" : 0,
+          "formattedTierPrice" : "",
+          "arUrl" : "",
+          "isNew" : false,
+          "configurableData" : {
+
+          },
+          "isAvailable" : true,
+          "dominantColor" : "#f5f5f4",
+          "minAddToCartQty" : 1,
+          "name" : "CAT Elevators Warwick James Right ",
+          "isInWishlist" : false,
+          "isInRange" : true,
+          "thumbNail" : "https:\/\/www.libraltraders.com\/media\/catalog\/product\/cache\/3fd6eaaa7a5db60370a21ab005fe98b7\/6\/2\/62.685.02.jpg",
+          "reviewCount" : 0,
+          "typeId" : "simple",
+          "formattedPrice" : "₹550.00",
+          "price" : 550,
+          "finalPrice" : 550,
+          "rating" : 0,
+          "formattedFinalPrice" : "₹550.00",
+          "entityId" : "1956"
+        }
+      ],
+      "type" : "product"
+    }
+  ],
+  "darkAppButtonColor" : "#05800D",
+  "allowAndroidDownload" : false
+}
